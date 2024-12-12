@@ -10,7 +10,7 @@ interface ItemWithColor {
 const selectLight  = ref<ItemWithColor>()
 
 const lightList = ref([
-  { id: 1, name: '灯1', status: false, color: '#000' },
+  { id: 1, name: '灯1', status: false, color: '#001' },
   { id: 2, name: '灯2', status: false, color: '#333' },
   { id: 3, name: '灯3', status: false, color: '#666' },
   { id: 4, name: '灯4', status: false, color: '#999' },
